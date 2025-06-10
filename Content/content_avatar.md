@@ -124,6 +124,27 @@ Al generar los resúmenes, adoptar el tono_comunicacion y personalidad_marca def
       "Icono": "mdi:star-circle",
       "body": "Expresión clara de las áreas de expertise de la empresa y cómo se aplican en su trabajo, formato markdown (min 330 caracteres)"
     },
+
+    "personalidad_marca":{
+      "titulo": "Personalidad de la Marca",
+      "Icono": "mdi:star-circle",
+      "body": "Expresión clara de la personalidad de la marca y cómo se aplica en su trabajo, formato markdown (min 330 caracteres)"
+    },
+    "audiencia_principal":{
+      "titulo": "Audiencia principal",
+      "Icono": "mdi:star-circle",
+      "body": "Expresión clara de las áreas de expertise de la empresa y cómo se aplican en su trabajo, formato markdown (min 330 caracteres)"
+    },
+    "estrtegia_contenido":{
+      "titulo": "Estrategia Contenido",
+      "Icono": "mdi:star-circle",
+      "body": "Resumen detallado la estrategia que se ocupara en la generacion de contenido, formato markdown (min 330 caracteres)"
+    },
+    "user_profile":{
+      "titulo": "Perfil de usuario",
+      "Icono": "mdi:star-circle",
+      "body": "Resumen detallado de perfil del usuario que ompleto el onboarding, formato markdown (min 330 caracteres)"
+    },
   },
   "descripcion": "[Generar una descripción de la empresa en formato Markdown. Debe incluir una descripción general (máximo 550 caracteres, minimo 400 caracteres ) .  Luego, agrega abajo de un salto de linea, una línea horizontal `---`. Finalmente, otro salto de linea y un lista tres palabras clave que describan la empresa, cada una encerrada en comillas invertidas, por ejemplo: `` Palabra1 ``  `` Palabra2 `` `` Palabra3 ``.]",
   "logo": {

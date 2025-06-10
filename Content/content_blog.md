@@ -43,9 +43,11 @@ focus_frase: una frase clave corta y poderosa que resuma la intención SEO del a
     "descripcion_seo": "Meta descripción clara y atractiva que resuma el valor del artículo.",
     "titulo_seo": "SEO Title con la focus phrase incluida",
     "palabras_clave": "- palabra clave 1\n- palabra clave 2\n- palabra clave 3\n- palabra clave 4\n- palabra clave 5",
+    "palabra_clave":"Genera la frase maximo 4 palabras que mas se adapte a el blog generado",
     "frases_busqueda": "- ¿cómo mejorar mi presencia en línea?\n- estrategias efectivas de marketing digital\n- herramientas SEO para emprendedores",
     "focus_frase": "marketing digital para emprendedores",
     "hecho_por": "Generado por IA"
+    "seo_meta_blog":"Frase clave para el BLOG. Debe centrarse en los temas del blog (ej. consejos, novedades del sector, guías, etc.), alineado con los intereses del público objetivo."
   },
   {
     "name": "Blog_2",
@@ -56,9 +58,11 @@ focus_frase: una frase clave corta y poderosa que resuma la intención SEO del a
     "descripcion_seo": "Meta descripción clara y atractiva que resuma el valor del artículo.",
     "titulo_seo": "SEO Title con la focus phrase incluida",
     "palabras_clave": "- palabra clave 1\n- palabra clave 2\n- palabra clave 3\n- palabra clave 4\n- palabra clave 5",
+    "palabra_clave":"Genera la frase maximo 4 palabras que mas se adapte a el blog generado",
     "frases_busqueda": "- ¿cómo mejorar mi presencia en línea?\n- estrategias efectivas de marketing digital\n- herramientas SEO para emprendedores",
     "focus_frase": "marketing digital para emprendedores",
     "hecho_por": "Generado por IA"
+    "seo_meta_blog":"Frase clave para el BLOG. Debe centrarse en los temas del blog (ej. consejos, novedades del sector, guías, etc.), alineado con los intereses del público objetivo."
   },
   {
     "name": "Blog_3",
@@ -69,9 +73,11 @@ focus_frase: una frase clave corta y poderosa que resuma la intención SEO del a
     "descripcion_seo": "Meta descripción clara y atractiva que resuma el valor del artículo.",
     "titulo_seo": "SEO Title con la focus phrase incluida",
     "palabras_clave": "- palabra clave 1\n- palabra clave 2\n- palabra clave 3\n- palabra clave 4\n- palabra clave 5",
+    "palabra_clave":"Genera la frase maximo 4 palabras que mas se adapte a el blog generado",
     "frases_busqueda": "- ¿cómo mejorar mi presencia en línea?\n- estrategias efectivas de marketing digital\n- herramientas SEO para emprendedores",
     "focus_frase": "marketing digital para emprendedores",
     "hecho_por": "Generado por IA"
+    "seo_meta_blog":"Frase clave para el BLOG. Debe centrarse en los temas del blog (ej. consejos, novedades del sector, guías, etc.), alineado con los intereses del público objetivo."
   }
   
 
